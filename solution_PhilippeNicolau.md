@@ -35,5 +35,5 @@ plt.grid()
 plt.savefig('YearsCons.png', dpi = 600)
 ```
 
-
+![](https://github.com/PNicolau96/CS_Assignment/blob/master/YearsCons.png?raw=true)
 

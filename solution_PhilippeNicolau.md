@@ -10,6 +10,8 @@ Applied Ergonomics, 33(6), 523-531.
 Preventive medicine, 40(1), 23-32.
 
 
+The following python allows for the generation of the plot below:
+
 ```(python)
 import pandas as pd
 from matplotlib import pyplot as plt
@@ -32,4 +34,6 @@ pylab.legend(loc='center left')
 plt.grid()
 plt.savefig('YearsCons.png', dpi = 600)
 ```
+
+
 
